@@ -1,5 +1,3 @@
-print("HelloWorld")
-
 x=1
 if x==1:
     print("Correct")
@@ -42,7 +40,6 @@ print(Wout)
 print(Gaston)
 print(Kobe)
 print(Brent)
-
 
 
 
